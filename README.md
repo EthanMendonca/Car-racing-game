@@ -1,2 +1,2 @@
-# Car-racing-game
-Structure of a game
+# synchronousBallMovement
+Ball moving synchronously
